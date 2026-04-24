@@ -1,0 +1,6 @@
+{
+  "name": "SnapTik Web",
+  "description": "A clean, client-side web application to download TikTok videos without a watermark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
